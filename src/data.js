@@ -25,7 +25,7 @@ const menu = [
   },
   {
     id: 4,
-    title: 'country delight',
+    title: 'Idli-sambar',
     category: 'breakfast',
     price: 20.99,
     img: './images/item-4.jpeg',
@@ -49,7 +49,7 @@ const menu = [
   },
   {
     id: 7,
-    title: 'bacon overflow',
+    title: 'Dosa',
     category: 'breakfast',
     price: 8.99,
     img: './images/item-7.jpeg',
